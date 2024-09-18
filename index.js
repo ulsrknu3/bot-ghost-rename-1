@@ -38,7 +38,7 @@ app.listen(port, () => {
 });
 
 const statusMessages = ["Created By U3", "Check Website", "mayroxoi.rf.gd"];
-const statusTypes = [ 'dnd', 'idle'];
+const statusTypes = [ 'dnd' ];
 let currentStatusIndex = 0;
 let currentTypeIndex = 0;
 
